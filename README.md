@@ -60,7 +60,7 @@ It also provides an admin panel for managing movies and showtimes.
 ## Set Up and Installation
 
 ### Clone the Repository
-git clone https://github.com/<your-username>/CineReserve.git
+git clone https://github.com/yadavsimran/CineReserve.git
 cd CineReserve
 
 ### Install Python
