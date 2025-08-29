@@ -1,0 +1,1124 @@
+{
+  "meta": {
+    "created_at": "2025-08-28T17:24:13.270749"
+  },
+  "next_ids": {
+    "movie": 10,
+    "booking": 11
+  },
+  "movies": {
+    "M004": {
+      "title": "Ram Krishna",
+      "showtimes": {
+        "2025-09-01 18:00": {
+          "rows": 5,
+          "cols": 8,
+          "seats": {
+            "A1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C4": {
+              "booked": true,
+              "booking_id": "B000007"
+            },
+            "C5": {
+              "booked": true,
+              "booking_id": "B000007"
+            },
+            "C6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E8": {
+              "booked": false,
+              "booking_id": null
+            }
+          }
+        }
+      }
+    },
+    "M005": {
+      "title": "Hello Wrold",
+      "showtimes": {
+        "2025-08-30 21:00": {
+          "rows": 5,
+          "cols": 8,
+          "seats": {
+            "A1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C4": {
+              "booked": true,
+              "booking_id": "B000006"
+            },
+            "C5": {
+              "booked": true,
+              "booking_id": "B000006"
+            },
+            "C6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E5": {
+              "booked": true,
+              "booking_id": "B000009"
+            },
+            "E6": {
+              "booked": true,
+              "booking_id": "B000009"
+            },
+            "E7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E8": {
+              "booked": false,
+              "booking_id": null
+            }
+          }
+        },
+        "2025-09-01 15:00": {
+          "rows": 5,
+          "cols": 8,
+          "seats": {
+            "A1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A4": {
+              "booked": true,
+              "booking_id": "B000008"
+            },
+            "A5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C5": {
+              "booked": true,
+              "booking_id": "B000008"
+            },
+            "C6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E8": {
+              "booked": false,
+              "booking_id": null
+            }
+          }
+        }
+      }
+    },
+    "M006": {
+      "title": "Scary Movies",
+      "showtimes": {
+        "2025-09-01 09:00": {
+          "rows": 5,
+          "cols": 8,
+          "seats": {
+            "A1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E8": {
+              "booked": false,
+              "booking_id": null
+            }
+          }
+        }
+      }
+    },
+    "M007": {
+      "title": "Children Movies",
+      "showtimes": {
+        "2025-09-01 12:00": {
+          "rows": 5,
+          "cols": 8,
+          "seats": {
+            "A1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C4": {
+              "booked": true,
+              "booking_id": "B000005"
+            },
+            "C5": {
+              "booked": true,
+              "booking_id": "B000005"
+            },
+            "C6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E5": {
+              "booked": true,
+              "booking_id": "B000010"
+            },
+            "E6": {
+              "booked": true,
+              "booking_id": "B000010"
+            },
+            "E7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E8": {
+              "booked": false,
+              "booking_id": null
+            }
+          }
+        }
+      }
+    },
+    "M008": {
+      "title": "Somethings Weird",
+      "showtimes": {
+        "2025-09-02 09:00": {
+          "rows": 5,
+          "cols": 8,
+          "seats": {
+            "A1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "A8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "B8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "C8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "D8": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E1": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E2": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E3": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E4": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E5": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E6": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E7": {
+              "booked": false,
+              "booking_id": null
+            },
+            "E8": {
+              "booked": false,
+              "booking_id": null
+            }
+          }
+        }
+      }
+    }
+  },
+  "bookings": {
+    "B000001": {
+      "movie_id": "M002",
+      "showtime": "2025-08-30 12:30",
+      "seats": [
+        "E4",
+        "E5"
+      ],
+      "name": "Simran",
+      "created_at": "2025-08-28T17:30:44.497711"
+    },
+    "B000002": {
+      "movie_id": "M002",
+      "showtime": "2025-08-30 12:30",
+      "seats": [
+        "E2",
+        "E3"
+      ],
+      "name": "Ishan Yadav",
+      "created_at": "2025-08-28T17:31:45.248343"
+    },
+    "B000004": {
+      "movie_id": "M002",
+      "showtime": "2025-08-30 12:30",
+      "seats": [
+        "D5",
+        "D6"
+      ],
+      "name": "Manoj Yadav",
+      "created_at": "2025-08-28T20:24:41.872717"
+    },
+    "B000005": {
+      "movie_id": "M007",
+      "showtime": "2025-09-01 12:00",
+      "seats": [
+        "C4",
+        "C5"
+      ],
+      "name": "Nagina Yadav",
+      "created_at": "2025-08-29T10:38:25.849720"
+    },
+    "B000006": {
+      "movie_id": "M005",
+      "showtime": "2025-08-30 21:00",
+      "seats": [
+        "C4",
+        "C5"
+      ],
+      "name": "Samjhana",
+      "created_at": "2025-08-29T10:52:09.552270"
+    },
+    "B000007": {
+      "movie_id": "M004",
+      "showtime": "2025-09-01 18:00",
+      "seats": [
+        "C4",
+        "C5"
+      ],
+      "name": "Manoj Yadav",
+      "created_at": "2025-08-29T10:59:35.416834"
+    },
+    "B000008": {
+      "movie_id": "M005",
+      "showtime": "2025-09-01 15:00",
+      "seats": [
+        "C5",
+        "A4"
+      ],
+      "name": "Priyanka",
+      "created_at": "2025-08-29T12:41:47.674899"
+    },
+    "B000009": {
+      "movie_id": "M005",
+      "showtime": "2025-08-30 21:00",
+      "seats": [
+        "E5",
+        "E6"
+      ],
+      "name": "Hari Prasad",
+      "created_at": "2025-08-29T12:53:30.888103"
+    },
+    "B000010": {
+      "movie_id": "M007",
+      "showtime": "2025-09-01 12:00",
+      "seats": [
+        "E5",
+        "E6"
+      ],
+      "name": "Ashvi",
+      "created_at": "2025-08-29T13:12:34.111839"
+    }
+  }
+}
